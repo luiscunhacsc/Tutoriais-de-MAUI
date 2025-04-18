@@ -34,8 +34,6 @@ Este repositório acompanha **dois tutoriais complementares**:
 - Temas, estilos e personalização por plataforma
 - Controles personalizados e publicação automatizada com GitHub Actions
 
-📘 **Todas as soluções estão incluídas**:  
-🔗 [Consulta aqui](https://github.com/luiscunhacsc/GitHub-MAUI)
 
 ---
 
